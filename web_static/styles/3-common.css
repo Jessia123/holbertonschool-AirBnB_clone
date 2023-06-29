@@ -1,0 +1,14 @@
+/* Reset default margin and padding of the body */
+body {
+    margin: 0;
+    padding: 0;
+    color: #484848; /* Font color */
+    font-size: 14px; /* Font size */
+    font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif; /* Font family */
+  }
+  
+  /* Icon in the browser tab */
+  link[rel="icon"] {
+    /* Specify the path to the icon file */
+  }
+  

@@ -1,0 +1,18 @@
+/* Styling for the footer */
+footer {
+    color: white; /* Text color */
+    height: 60px; /* Set the height of the footer */
+    width: 100%; /* Span the entire width of the page */
+    border-top: 1px solid #CCCCCC; /* Add a top border with color */
+    position: fixed; /* Fix the position of the footer */
+    bottom: 0; /* Place the footer at the bottom of the page */
+  }
+  
+  /* Styling for the footer content */
+  .footer-content {
+    display: flex; /* Use flexbox for layout */
+    align-items: center; /* Center items vertically */
+    justify-content: center; /* Center items horizontally */
+    height: 100%; /* Set the height of the content div */
+  }
+  
