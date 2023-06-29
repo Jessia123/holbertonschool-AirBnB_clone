@@ -1,0 +1,29 @@
+/* Styling for the filters section */
+.filters {
+    /* Specify styles for the filters section */
+  }
+  
+  /* Styling for the locations filter */
+  .filters .locations {
+    height: 100%;
+    width: 25%;
+    border-right: 1px solid #DDDDDD;
+  }
+  
+  /* Styling for the amenities filter */
+  .filters .amenities {
+    height: 100%;
+    width: 25%;
+  }
+  
+  /* Styling for the filter title */
+  .filters h3 {
+    font-weight: 600;
+  }
+  
+  /* Styling for the filter subtitle */
+  .filters h4 {
+    font-weight: 400;
+    font-size: 14px;
+  }
+  
