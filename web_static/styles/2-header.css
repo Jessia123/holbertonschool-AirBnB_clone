@@ -1,0 +1,7 @@
+/* Styling for the header */
+header {
+    background-color: #FF0000; /* Red background color */
+    height: 70px; /* Set the height of the header */
+    width: 100%; /* Span the entire width of the page */
+  }
+  

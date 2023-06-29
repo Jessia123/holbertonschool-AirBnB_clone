@@ -1,0 +1,23 @@
+/* Styling for the footer */
+footer {
+    background-color: #00FF00; /* Green background color */
+    height: 60px; /* Set the height of the footer */
+    width: 100%; /* Span the entire width of the page */
+    position: fixed; /* Fix the position of the footer */
+    bottom: 0; /* Place the footer at the bottom of the page */
+  }
+  
+  /* Styling for the content of the footer */
+  footer div {
+    display: flex; /* Use flexbox for centering content */
+    align-items: center; /* Center items vertically */
+    justify-content: center; /* Center items horizontally */
+    height: 100%; /* Set the height of the content div */
+  }
+  
+  /* Styling for the text within the footer */
+  footer span {
+    color: #FFFFFF; /* White text color */
+    font-weight: bold; /* Apply bold font weight */
+  }
+  
